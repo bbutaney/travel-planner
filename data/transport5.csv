@@ -1,0 +1,7 @@
+origin,destination,type,price,duration
+Miami,Cairo,Bus,6000,10
+Cairo,Detroit,Plane,27,4000
+Sydney,Detroit,Train,5,8000
+San Francisco,Detroit,Bus,300,100
+San Francisco,LA,Plane,3000,3000
+LA,San Francisco,Bus,2000,2000

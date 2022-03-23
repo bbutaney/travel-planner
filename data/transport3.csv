@@ -1,0 +1,9 @@
+origin,destination,type,price,duration
+Chicago,LA,Plane,350,240
+Chicago,Buffalo,Bus,200,600
+Buffalo,Chicago,Plane,250,150
+Chicago,Scottsdale,Train,250,1000
+Buffalo,Scottsdale,Bus,0,3000
+Buffalo,New York,Train,100,400
+Scottsdale,New Orleans,Bus,10,5000
+New Orleans,New York,Bus,0,7000
